@@ -1231,6 +1231,9 @@ button {
   }
 }
 @media only screen and (min-width: 768px) {
+  .header {
+    margin-bottom: 100px;
+  }
   .header .container {
     justify-content: unset;
   }
