@@ -1,0 +1,28 @@
+.header {
+
+    .container {
+        justify-content: unset;
+    }
+
+    &__logo {
+        margin-right: 60px;
+    }
+
+    &__nav {
+        .menu {
+            display: flex;
+            flex-direction: row;
+        }
+
+        .menu-button {
+            display: none;
+        }
+        
+    }
+
+    &__request {
+        display: block;
+        margin-left: auto;
+    }
+
+}

@@ -1,0 +1,12 @@
+.who-we-are {
+    padding: 0 15px;
+    .container {
+        flex-direction: row;
+        justify-content: space-between;
+
+        img {
+            margin-right: 10px;
+        }
+
+    }
+}

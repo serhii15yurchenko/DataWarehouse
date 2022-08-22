@@ -1,0 +1,20 @@
+.first-screen {
+
+    .container {
+        display: flex;
+        flex-direction: row;
+        align-items: unset;
+        margin-bottom: 100px;
+        position: relative;
+        
+        img {
+            max-width: 770px;
+            // 770px
+            width: 100%;
+            height: auto;
+            position: absolute;
+            right: 0;
+            bottom: -35px;
+        }
+    }
+}
